@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachit Tarway</h1>
-<h3 align="center">A passionate frontend develBla Bla oper from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachittarway&label=Profile%20views&color=0e75b6&style=flat" alt="sachittarway" /> </p>
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sachittarway2002@gmail.com**
 
-- ⚡ Fun fact **I am a boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
