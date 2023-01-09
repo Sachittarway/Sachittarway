@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachit Tarway</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachittarway&label=Profile%20views&color=0e75b6&style=flat" alt="sachittarway" /> </p>
+<img src= "https://avatars.githubusercontent.com/u/86160848?s=400&u=2ac9e624b4e29dacb40aa2b22bc36aaea6696933&v=4" align = "center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachittarway" alt="sachittarway" /></a> </p>
 
 - 🔭 I’m currently working on [Algorithms](github.com/Sachittarway/Algorithms)
 
