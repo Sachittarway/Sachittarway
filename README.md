@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MERN Stack Technology** and building projects on it.
 
-- 🤝 I’m looking for help with **Project with MERN Stack**
-
 - 👨‍💻 All of my projects are available at [github.com/Sachittarway](github.com/Sachittarway)
 
 - 💬 Ask me about **React ,C++**
