@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Sachittarway](github.com/Sachittarway)
 
-- 💬 Ask me about **React ,C++**
+- 💬 Ask me about **React,Node Js,Express Js,MongoDb,C++**
 
 - 📫 How to reach me **sachittarway2002@gmail.com**
 
