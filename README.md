@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachit Tarway</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img src= "https://avatars.githubusercontent.com/u/86160848?s=400&u=2ac9e624b4e29dacb40aa2b22bc36aaea6696933&v=4" align = "center">
 
